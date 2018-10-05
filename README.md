@@ -1,2 +1,4 @@
 # studious-carnival
-Test repo to practise gitflow
+Test repo to practise gitflow   
+This is feature 1   
+This is release 0.0.1
